@@ -79,7 +79,7 @@ def decoding():
 if __name__ == '__main__':
     window = tk.Tk()
     window.geometry('640x640')
-    window.title('Cypher Text Convertor')
+    window.title('Cypher Text Converter')
 
     # Label
     label1 = tk.Label(text='Write message: ')
